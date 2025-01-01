@@ -31,7 +31,7 @@
 ### 15기
 <div markdown="1">
   <ul>
-    <li>Developer💻 <a href="https://github.com/imkty20087">기태연</a></li>
+    <li>Developer💻 <a href="https://github.com/imkty2008">기태연</a></li>
     <li>Developer💻 <a href="https://github.com/YoonDakyung">윤다경</a></li>
     <li>Developer💻 <a href="https://github.com/sangyeon08">이상연</a></li>
     <li>Developer💻 <a href="https://github.com/08april06">장시후</a></li>
