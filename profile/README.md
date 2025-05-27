@@ -36,7 +36,7 @@
     <li>Developer💻 <a href="https://github.com/Kimseju">김세주</a></li>
     <li>Developer💻 <a href="https://github.com/shen5631">신홍명</a></li>
     <li>Developer💻 <a href="https://github.com/yungijin09">윤기진</a></li>
-    <li>Developer💻 <a href="https://github.com/yuminiie"></a>이유민</li>
+    <li>Developer💻 <a href="https://github.com/yuminiie">이유민</a></li>
     <li>Designer 🎨 <a href="https://www.instagram.com/gangwldbs/">강지윤</a></li>
     <li>Designer 🎨 <a href="https://www.instagram.com/msg_mirim/">이연경</a></li>
   </ul>
