@@ -7,17 +7,6 @@
 ## 🧑‍💻 Member
 <sub>개발과는 깃허브 링크, 디자인과는 인스타 링크로 대체합니다.</sub>
 
-### 14기
-<div markdown="1">
-  <ul>
-    <li>Developer💻 <a href="https://github.com/jihyun0121">백지현</a></li>
-    <li>Developer💻 <a href="https://github.com/hyewon4052">양혜원</a></li>
-    <li>Developer💻 <a href="https://github.com/hayeong120">장하영</a></li>
-    <li>Developer💻 <a href="https://github.com/subin1848">조수빈</a></li>
-    <li>Designer 🎨 <a href="https://www.instagram.com/kyoungmany/">탁경민</a></li>
-  </ul>
-</div>
-
 ### 15기
 <div markdown="1">
   <ul>
@@ -33,7 +22,6 @@
 ### 16기
 <div markdown="1">
   <ul>
-    <li>Developer💻 <a href="https://github.com/Kimseju">김세주</a></li>
     <li>Developer💻 <a href="https://github.com/shen5631">신홍명</a></li>
     <li>Developer💻 <a href="https://github.com/yungijin09">윤기진</a></li>
     <li>Developer💻 <a href="https://github.com/yuminiie">이유민</a></li>
